@@ -17,3 +17,7 @@
 
 ## Clip-path Maker
 - https://bennettfeely.com/clippy/
+
+## Flat illustrations
+- https://undraw.co/illustrations
+- https://www.freepik.com/free-photos-vectors/flat-illustration
