@@ -24,3 +24,11 @@
 
 ## Logo Website
 - https://seeklogo.com/
+
+## GZip Compression Test
+- https://www.giftofspeed.com/gzip-test/
+
+## Website Page Test
+- https://www.thinkwithgoogle.com/feature/testmysite/
+- https://developers.google.com/speed/pagespeed/insights/
+- https://gtmetrix.com/
