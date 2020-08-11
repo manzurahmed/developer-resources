@@ -1,5 +1,14 @@
 # List of resources of different technologies
 
+## VS Code Extensions
+https://www.youtube.com/watch?v=c5GAS_PMXDs
+
+- Prettier
+- Bracket Pair Colorizer 2
+- Auto Rename Tag
+- Live Server
+- Emmet
+
 ## CSS Flexbox Tutorial
 - https://mastery.games/courses/139425/lectures/2558726
 - https://gridcritters.com/
